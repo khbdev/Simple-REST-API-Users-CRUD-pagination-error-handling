@@ -26,31 +26,6 @@ It includes **CRUD operations**, **cursor-based pagination**, and **standard err
 
 ---
 
-## ⚡ Setup
-
-1. Clone the repository:
-
-```bash
-git clone https://github.com/yourusername/mini-task.git
-cd mini-task
-```
-
-2. Install dependencies:
-
-```bash
-go mod tidy
-```
-
-3. Run the server:
-
-```bash
-go run main.go
-```
-
-Server will start at `http://localhost:8080`.
-
----
-
 ## 🚀 API Endpoints
 
 ### 1️⃣ Create User
